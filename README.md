@@ -31,5 +31,22 @@ The design of the QuickCharge App is fully documented through a series of UML an
 | **Activity Diagram** | Maps the flow of a specific process, such as the "Recharge Prepaid Balance" process. | `assets/AD-ActivityDiagram.drawio.png` |
 | **Component Diagram** | Illustrates the physical structure of the system, showing the components (`Application`, `Recharge Service`, `DB Modules`) and their interfaces. | `assets/AD-ComponentDiagram.drawio.png` |
 
+### Viewing the Diagrams
 
+You can view the diagrams directly below:
+
+**Use Case Diagram:**
+![Use Case Diagram for QuickCharge App](assets/AD-UseCase.drawio.png)
+
+**Sitemap:**
+![Sitemap for QuickCharge App](assets/AD-Sitemap.drawio.png)
+
+**Class Diagram:**
+![Class Diagram for QuickCharge App](assets/AD-ClassDiagram.drawio.png)
+
+**Activity Diagram:**
+![Activity Diagram for Recharge Prepaid Balance](assets/AD-ActivityDiagram.drawio.png)
+
+**Component Diagram:**
+![Component Diagram for QuickCharge App](assets/AD-ComponentDiagram.drawio.png)
 
