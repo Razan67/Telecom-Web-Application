@@ -36,7 +36,7 @@ The design of the QuickCharge App is fully documented through a series of UML an
 You can view the diagrams directly below:
 
 **Use Case Diagram:**
-![Use Case Diagram for QuickCharge App](Application Development Project/assets/AD-UseCase.drawio.png)
+![Use Case Diagram for QuickCharge App](assets/AD-UseCase.drawio.png)
 
 **Sitemap:**
 ![Sitemap for QuickCharge App](assets/AD-Sitemap.drawio.png)
